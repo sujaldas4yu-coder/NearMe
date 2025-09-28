@@ -184,6 +184,16 @@ vgp.html
 ```
 
 ## OUTPUT
+<img width="1920" height="1200" alt="CHENNAI" src="https://github.com/user-attachments/assets/fb489bd9-7d0d-4b6f-9c6e-d2abffc092af" />
+<img width="1920" height="1200" alt="CIT" src="https://github.com/user-attachments/assets/66e1345e-a1d8-4db0-a913-12d09cdd6159" />
+<img width="1920" height="1200" alt="ZOO" src="https://github.com/user-attachments/assets/7b9abff8-f07d-471a-ac19-64a98551820b" />
+<img width="1920" height="1200" alt="VGP" src="https://github.com/user-attachments/assets/17efa558-f7c1-4642-b440-9e60dbc3b32c" />
+<img width="1920" height="1200" alt="MGM" src="https://github.com/user-attachments/assets/739803e6-36ff-4d66-b2c7-17639ac634f9" />
+<img width="1920" height="1200" alt="SIPCOT" src="https://github.com/user-attachments/assets/29dcfa0b-ec68-4320-b08d-df14d6ec040b" />
+
+
+
+
 
 
 
